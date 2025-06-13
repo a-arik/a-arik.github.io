@@ -1,0 +1,32 @@
+.tekst{
+    padding-top: 100px;
+}
+
+.foto{
+    padding-left: 300px;
+}
+
+.bar{
+    height: 20px;
+}
+ 
+.html-progress{
+    width: 80%;
+}
+ 
+.javascript-progress{
+    width: 60%;
+}
+ 
+.bootstrap-progress{
+    width: 85%;
+}
+ 
+.php-progress{
+    width: 15%;
+}
+
+
+.dash{
+    height: 290px;
+}
